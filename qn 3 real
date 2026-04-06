@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Seanna Saji Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fdf6e3; /* Light cream */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 900px;
+            margin: 20px auto;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+
+        /* Left column */
+        .left {
+            width: 35%;
+            background-color: #2e8b57; /* green side panel */
+            color: white;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .left h2 {
+            border-bottom: 1px solid white;
+            padding-bottom: 5px;
+        }
+
+        .left ul li {
+            margin-bottom: 10px;
+        }
+
+        /* Right column */
+        .right {
+            width: 65%;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .right h1 {
+            color: #2e8b57;
+            margin-top: 0;
+        }
+
+        .right h2 {
+            color: #4682b4;
+            border-bottom: 2px solid #4682b4;
+            padding-bottom: 5px;
+        }
+
+        .right ul.skills li {
+            display: inline-block;
+            background-color: #eee;
+            color: #333;
+            padding: 5px 10px;
+            margin: 5px 5px 5px 0;
+            border-radius: 5px;
+        }
+
+        a {
+            color: #b22222;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .contact {
+            margin-bottom: 20px;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Left Column -->
+    <div class="left">
+        <h2>Contact</h2>
+        <ul>
+            <li>Email: <a href="mailto:seanna.saji@example.com" style="color:white;">seanna.saji@example.com</a></li>
+            <li>Phone: +91 98765 43210</li>
+            <li>Location: India</li>
+        </ul>
+
+        <h2>Skills</h2>
+        <ul class="skills">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>SQL</li>
+        </ul>
+
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading</li>
+            <li>Traveling</li>
+            <li>Gaming</li>
+        </ul>
+    </div>
+
+    <!-- Right Column -->
+    <div class="right">
+        <h1>Seanna Saji</h1>
+
+        <div class="section">
+            <h2>Career Objective</h2>
+            <p>To work in a challenging IT environment and grow as a professional while contributing to the success of the organization.</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li>BSc Computer Science – XYZ University (2020-2023)</li>
+                <li>High School – ABC School (2018-2020)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Work Experience</h2>
+            <ul>
+                <li>Intern – Web Development, TechCorp (June 2022 – Aug 2022)</li>
+                <li>Freelance Website Designer (2021 – Present)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Projects</h2>
+            <ul>
+                <li><a href="#">Personal Portfolio Website</a></li>
+                <li><a href="#">Online Quiz Application</a></li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>References</h2>
+            <p>Available on request.</p>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
