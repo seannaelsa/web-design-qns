@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ABC College</title>
+</head>
+
+<body>
+
+<h1 align="center">ABC College</h1>
+
+<h2>About College</h2>
+<p>ABC College is one of the leading institutions providing quality education.</p>
+
+<h2>Menu</h2>
+<ul>
+    <li><a href="courses.html">Courses</a></li>
+    <li><a href="departments.html">Departments</a></li>
+    <li><a href="faculties.html">Faculties</a></li>
+    <li><a href="library.html">Library</a></li>
+</ul>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Courses</title>
+</head>
+
+<body>
+
+<h2>Courses Offered</h2>
+
+<ul>
+    <li>BSc Computer Science</li>
+    <li>BCom</li>
+    <li>BA English</li>
+    <li>BBA</li>
+</ul>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Departments</title>
+</head>
+
+<body>
+
+<h2>Departments</h2>
+
+<ul>
+    <li>Computer Science</li>
+    <li>Commerce</li>
+    <li>English</li>
+    <li>Management</li>
+</ul>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Faculties</title>
+</head>
+
+<body>
+
+<h2>Our Faculties</h2>
+
+<ul>
+    <li>Dr. Rajesh Kumar</li>
+    <li>Ms. Anjali Nair</li>
+    <li>Mr. Arun Das</li>
+</ul>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Faculties</title>
+</head>
+
+<body>
+
+<h2>Our Faculties</h2>
+
+<ul>
+    <li>Dr. Rajesh Kumar</li>
+    <li>Ms. Anjali Nair</li>
+    <li>Mr. Arun Das</li>
+</ul>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>
