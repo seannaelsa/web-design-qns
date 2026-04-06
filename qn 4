@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hometown</title>
+    <style>
+        body {
+            background-color: #87ceeb; /* Sky blue background */
+            color: #333333;            /* Dark text color */
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff4500; /* OrangeRed heading */
+        }
+        p {
+            font-size: 18px;
+        }
+        img {
+            width: 400px;
+            height: auto;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Welcome to My Hometown</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Yosemite_Valley_from_Artist_Point.jpg/640px-Yosemite_Valley_from_Artist_Point.jpg" alt="Hometown Image">
+
+<p>My hometown is beautiful and peaceful, with scenic landscapes and friendly people. It has many parks, rivers, and cultural places worth visiting.</p>
+
+<p>People here enjoy festivals, local food, and outdoor activities. It’s a place where tradition meets modern life!</p>
+
+</body>
+</html>
