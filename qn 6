@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rectangle Area Calculator</title>
+</head>
+<body>
+
+<h1>Rectangle Area Calculator</h1>
+
+<script>
+    // Prompt user for length and width
+    var length = prompt("Enter the length of the rectangle:");
+    var width = prompt("Enter the width of the rectangle:");
+
+    // Convert input to numbers
+    length = parseFloat(length);
+    width = parseFloat(width);
+
+    // Calculate area
+    var area = length * width;
+
+    // Display result
+    alert("The area of the rectangle is: " + area);
+</script>
+
+</body>
+</html>
