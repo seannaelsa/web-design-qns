@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Library</title>
+</head>
+
+<body>
+
+<h2>Library</h2>
+
+<p>Our college library contains thousands of books, journals, and digital resources.</p>
+
+<ul>
+    <li>Reference Books</li>
+    <li>Magazines</li>
+    <li>Digital Library</li>
+</ul>
+
+<a href="index.html">Back to Home</a>
+
+</body>
+</html>
