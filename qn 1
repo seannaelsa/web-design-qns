@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frames Layout</title>
+</head>
+
+<frameset rows="50%,50%">
+
+    <!-- First Row -->
+    <frameset cols="50%,50%">
+        <frame src="frame1.html">
+        <frame src="frame2.html">
+    </frameset>
+
+    <!-- Second Row -->
+    <frameset cols="50%,50%">
+        <frame src="frame3.html">
+        <frame src="frame4.html">
+    </frameset>
+
+</frameset>
+
+</html>
+<!DOCTYPE html>
+<html>
+<body style="background-color:red;">
+<h2 align="center">Frame 1</h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body style="background-color:blue;">
+<h2 align="center" style="color:white;">Frame 2</h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body style="background-color:green;">
+<h2 align="center" style="color:white;">Frame 3</h2>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body style="background-color:orange;">
+<h2 align="center">Frame 4</h2>
+</body>
+</html>
