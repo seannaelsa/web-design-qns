@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Simple Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fdf6e3; /* Light cream background */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #4682b4; /* Steel blue */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .blog-post {
+            background-color: #ffffff;
+            margin: 20px auto;
+            padding: 15px;
+            width: 80%;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            border-radius: 5px;
+        }
+
+        .blog-post h2 {
+            color: #2e8b57; /* Green headings */
+        }
+
+        .blog-post p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        footer {
+            background-color: #4682b4;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+
+        a {
+            color: #b22222;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Seanna's Blog</h1>
+</header>
+
+<div class="blog-post">
+    <h2>My First Post</h2>
+    <p>Welcome to my blog! This is my first post. I will be sharing interesting stories, tutorials, and experiences here.</p>
+    <a href="#">Read more...</a>
+</div>
+
+<div class="blog-post">
+    <h2>Traveling to Kollam</h2>
+    <p>Kollam is a beautiful city in Kerala, India. Its backwaters, beaches, and cultural heritage make it a wonderful place to visit.</p>
+    <a href="#">Read more...</a>
+</div>
+
+<div class="blog-post">
+    <h2>Learning HTML & CSS</h2>
+    <p>HTML and CSS are the building blocks of web development. With practice, you can create beautiful websites like this simple blog.</p>
+    <a href="#">Read more...</a>
+</div>
+
+<footer>
+    &copy; 2026 Seanna Saji. All rights reserved.
+</footer>
+
+</body>
+</html>
