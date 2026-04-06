@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kollam - My Hometown</title>
+    <style>
+        body {
+            background-color: #87ceeb; /* Sky blue background */
+            color: #333333;            /* Dark text color */
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff4500; /* OrangeRed heading */
+        }
+        p {
+            font-size: 18px;
+        }
+        img {
+            width: 400px;
+            height: auto;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Welcome to Kollam</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Kollam_Bridge.JPG" alt="Kollam Image">
+
+<p>Kollam is a beautiful city in Kerala, India, known for its backwaters, beaches, and historic landmarks. It is also famous for cashew processing and coir production.</p>
+
+<p>The city has a rich cultural heritage with traditional festivals, temples, and friendly locals. Nature lovers enjoy boating and exploring the serene backwaters of Kollam.</p>
+
+</body>
+</html>
